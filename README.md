@@ -13,7 +13,9 @@
 
 Projeto desenvolvido durante estudo na Alura.com.br
 <h3 align="center" >
-    <img src="https://github.com/Aoliveiradev/TheBarber/blob/main/assets/logo.png?raw=true" />
+   	<img src="https://github.com/Aoliveiradev/TheBarber/blob/main/assets/thebarberhome.png?raw=true" />
+	<img src="https://github.com/Aoliveiradev/TheBarber/blob/main/assets/thebarberprodutos.png?raw=true" />
+	<img src="https://github.com/Aoliveiradev/TheBarber/blob/main/assets/thebarbercontato.png?raw=true" />
 </h3>
 
 
