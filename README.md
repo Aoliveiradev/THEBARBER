@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center"> 
-	🚧  Concluído 🚧
+	💈 Concluído 💈
 </h2>
 
 ## 💻 Sobre o projeto
@@ -14,15 +14,15 @@
 Projeto desenvolvido durante estudo na Alura.com.br
 <h3 align="center" >
 	<h2 align="center"> 
-	🚧  HOME 🚧
+	🏠  HOME 🏠
 </h2>
    	<img src="https://github.com/Aoliveiradev/TheBarber/blob/main/assets/thebarberhome.png?raw=true" />
 	<h2 align="center"> 
-	🚧  PRODUTOS 🚧
+	💈  PRODUTOS 💈
 </h2>
 	<img src="https://github.com/Aoliveiradev/TheBarber/blob/main/assets/thebarberprodutos.png?raw=true" />
 	<h2 align="center"> 
-	🚧  CONTATO 🚧
+	☎️  CONTATO ☎️
 </h2>
 	<img src="https://github.com/Aoliveiradev/TheBarber/blob/main/assets/thebarbercontato.png?raw=true" />
 </h3>
