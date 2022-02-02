@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-    <img alt="Logo Proffy" src="TheBarber/assets/logo.png" />
+    <img alt="Logo Proffy" src="https://github.com/Aoliveiradev/TheBarber/blob/main/assets/logo.png?raw=true" />
 </h1>
 
 <h3 align="center">
