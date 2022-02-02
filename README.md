@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center"> 
-	🚧  Proffy 🏫 Concluído 🚧
+	🚧  Concluído 🚧
 </h2>
 
 ## 💻 Sobre o projeto
