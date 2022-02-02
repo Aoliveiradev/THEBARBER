@@ -1,0 +1,86 @@
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+.imgbanner {
+    width: 30%;
+    margin: 30px;
+
+}
+.text-descricao{
+
+}
+.descricoes {
+    width: 950px;
+    max-width: 100%;
+}
+.lista-cards {
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 auto;
+    padding: 0;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.card {
+    width: calc(100% / 3 - 18px);
+    display: flex !important;
+    text-decoration: none;
+    margin: 0 10px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 12px 15px 20px rgb(0 0 0 / 10%);
+    flex-direction: column;
+    position: relative;
+    height: inherit;
+    margin-bottom: 20px;
+    max-width: 215px;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+
+
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+    background: url("./assets/bg.jpg");
+}
+
+.copyright {
+    color: #BBBBBB;
+    size: 13px;
+    margin: 20px 0;
+
+}
