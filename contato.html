@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>alex
+<html>
 <head>
     <meta charset="UTF-8">
     <title>CONTATO</title>
@@ -25,19 +25,39 @@
 <main>
     <ul class="produtos">
         <li>
-
-            <img src="./assets/contactbarber.jfif">
-            <p class="produto-descricao">Telefone : (00) 0000 - 0000</p>
-            <p class="produto-descricao">Email: contato@barber.com</p>
-            <p class="produto-descricao">Whatsapp: (00) 0000 - 0000</p>
-
+            <img class="imgproduto"
+                 src="./assets/contactbarber.jfif">
         </li>
+
+            <form class="nomesobrenome">
+                <label for="nomesobrenome">Nome e sobrenome</label>
+                <input type="text" id="nomesobrenome">
+                </form>
+        <form class="email">
+
+        <label for="email">Email</label>
+                <input type="text" id="email">
+            </form>
+        <form class="telefone">
+            <label for="telefone">Telefone</label>
+                <input type="text" id="telefone">
+            </form>
+        <form class="mensagem">
+        <label>Deixe sua mensagem</label>
+                <textarea cols="30" rows="10"></textarea>
+            </form>
+
+                <input type="submit" value="Enviar formulário">
+
 
     </ul>
 </main>
 
 <footer>
     <img class="img-footer" src="assets/logo-branco.png">
+    <p class="produto-descricao">Telefone : (00) 0000 - 0000</p>
+    <p class="produto-descricao">Email: contato@barber.com</p>
+    <p class="produto-descricao">Whatsapp: (00) 0000 - 0000</p>
     <p class="copyright"> &copy; Copyright 2022</p>
 </footer>
 </body>
