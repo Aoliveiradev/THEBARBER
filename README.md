@@ -48,4 +48,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE.md).
 
-<p align="center"> 🚀 Desenvolvido por Allan Oliveira 🚀 </p>
+🚀 Desenvolvido por Allan Oliveira 🚀
